@@ -1,4 +1,5 @@
 # Coursera_Capstone
 Repository for Coursera Capstone Project
 
-(Coursera_Capstone/presentation_link.md)
+## Presentation link
+[League of Toronto's Neighbourhoods in Sports Centers](https://slides.com/vminfant/deck/fullscreen)
